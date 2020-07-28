@@ -7,4 +7,4 @@
 /node_modules
 .DS_Store
 /vendor/bundle
-/source/articles
+/source/articles/*
